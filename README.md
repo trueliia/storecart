@@ -13,10 +13,10 @@ This project is a small-scale implementation of a shopping cart application buil
 7. **Responsive Design:** Ensure a responsive and user-friendly design for seamless usage across devices.
 
 **Installation:**
-1. Clone the repository: `git clone https://github.com/your-username/react-redux-toolkit-shopping-cart.git`
-2. Navigate to the project directory: `cd react-redux-toolkit-shopping-cart`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies
+4. Start the development server
 
 **Usage:**
 1. Browse through the list of products displayed on the home page.
